@@ -13,10 +13,12 @@ Development Environments
 ------------------------
 
 ### Resources
-
-- Talk: Self-contained Development Environments for everyone
-  - [Slides](https://docs.google.com/presentation/d/1nixUW4DUCo02lJ9-zBjq4jf5B-cbZQEEzib9hR0CNUs/edit?usp=sharing)
-  - [Examples]
+- Talk: Self-contained Development Environments for everyone ([Slides](https://docs.google.com/presentation/d/1nixUW4DUCo02lJ9-zBjq4jf5B-cbZQEEzib9hR0CNUs/edit?usp=sharing)).  
+  .devcontainer Code Examples (Forks):  
+  - [qeesung/image2ascii](https://github.com/Yshayy/image2ascii/tree/master/.devcontainer)
+  - [Habitca/Habitica](https://github.com/Yshayy/habitica/tree/develop/.devcontainer)
+  - [Soluto/Tweek](https://github.com/Soluto/tweek/tree/master/.devcontainer)
+  - [kubecost/cost-model](https://github.com/Yshayy/cost-model/tree/develop/.devcontainer)
 
 
 ### Tools & Patterns
