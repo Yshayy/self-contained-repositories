@@ -47,9 +47,21 @@ This section should focus on how we can define our development environment confi
 
 
 ### Tools & Patterns
------------
+--------------
 
-**DevContainer**
+
+| Challenge                       	| Solution                                 	| Example tools                         	|
+|---------------------------------	|------------------------------------------	|---------------------------------------	|
+| Basic SDK/Runtime dependencies  	| [Development in container](#development-in-container)                 	| VSCode+Docker, GitPod                 	|
+| Cloud dependencies              	| Compatible dockerized implementations    	| Minio, redis                          	|
+| Initial application data        	| Data seeding                             	| Scripts, replicating from cloud       	|
+| More hardware                   	| Remote environment                       	| Docker-machine, codespaces            	|
+| Multi-Container Apps            	| Nested Containers                        	| Dind, compose, tilt                   	|
+| Kubernetes Apps                 	| Nested Kubernetes                        	| Kind, k3d, tilt, skaffold             	|
+| Exposing network dependencies   	| Reverse proxy, wild card development dns 	| Traefik, nginx, *.xip, *.localtest.me 	|
+| Serverless                      	| Mock cloud frameworks                    	| Localstack                            	|
+
+**<a name="development-in-container"></a>Development in container** 
 
   Developing inside a container instead of directly on machine.
   In the container we can define all the SDKs, CLIs, programming languges runtime, tools, extendsions and other dependencies.
@@ -61,6 +73,7 @@ This section should focus on how we can define our development environment confi
 
   Examples:
   - [VSCode dev containers repository](https://github.com/microsoft/vscode-dev-containers/tree/main/containers)
+
 
 **Nested Docker**
 
