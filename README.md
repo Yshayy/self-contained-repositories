@@ -38,7 +38,7 @@ This section should focus on how we can define our development environment confi
 ### Resources
 ----------
 
-- Talk: Self-contained Development Environments for everyone ([Slides](https://docs.google.com/presentation/d/1nixUW4DUCo02lJ9-zBjq4jf5B-cbZQEEzib9hR0CNUs/edit?usp=sharing)).  
+- Talk: Self-contained Development Environments for everyone ([Slides](https://www.slideshare.net/yshayy/instant-developer-onboarding-with-self-contained-repositories).  
   .devcontainer Code Examples (Forks):  
   - [qeesung/image2ascii](https://github.com/Yshayy/image2ascii/tree/master/.devcontainer)
   - [Habitca/Habitica](https://github.com/Yshayy/habitica/tree/develop/.devcontainer)
