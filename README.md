@@ -25,8 +25,7 @@ This document designed to document and aggregate tools & practices that can be u
 ### Status
 
 This is a living document, currently at a very early stage.
-PRs and tool suggestions and improvement are most welcome.  
-
+PRs, tool suggestions and improvement are most welcome.  
   
 # Principles
 
