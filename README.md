@@ -18,7 +18,7 @@ Taking it further, a "self-contained" repository can contain futher configuratio
 - API defintions
 - And more....
 
-By making all these defintions contained in our source control,we can better developer experience and lower the barrier for developing, building and depolying complex applications at any revsion.
+By making all these defintions contained in our source control, we can provide better developer experience and lower the barrier for developing, building and depolying complex applications at any revsion.
 
 This document designed to document and aggregate tools & practices that can be used to make repositories self-contained.
 
